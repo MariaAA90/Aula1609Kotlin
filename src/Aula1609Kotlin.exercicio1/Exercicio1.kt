@@ -1,4 +1,4 @@
-package exercicio1
+package Aula1609Kotlin.exercicio1
 
 fun main() {
     val numerosLoteria = mapOf(0 to "Ovos", 1 to "Água", 2 to "Escopeta", 3 to "Cavalo", 4 to "Dentista")

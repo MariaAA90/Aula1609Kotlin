@@ -1,4 +1,4 @@
-package exercicio2
+package Aula1609Kotlin.exercicio2
 
 fun main(){
     var lista = mutableListOf<Int>()

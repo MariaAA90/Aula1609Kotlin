@@ -1,4 +1,4 @@
-package exercicio3
+package Aula1609Kotlin.exercicio3
 
 fun main() {
     val p1 = setOf<Int>(10, 9, 2, 10)

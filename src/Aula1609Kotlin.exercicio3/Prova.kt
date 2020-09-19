@@ -1,4 +1,4 @@
-package exercicio3
+package Aula1609Kotlin.exercicio3
 
 class Prova {
     fun somaTotal(conjuntoDeInteiros: Set<Int>) {
