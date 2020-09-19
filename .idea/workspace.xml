@@ -11,12 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5e9d498-1547-41ed-9100-19921e01d4bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio1/Exercicio1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio1/Exercicio1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio2/Exercicio2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio2/Exercicio2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio3/Exercicio3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio3/Exercicio3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio3/Prova.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio3/Prova.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio4/Exercicio4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio4/Exercicio4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio4/GuardaVolumes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula1609Kotlin.exercicio4/GuardaVolumes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Kotlin.Exercicio3Kt">
+  <component name="RunManager" selected="Kotlin.Exercicio4Kt">
     <configuration name="Exercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Aula160920Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -113,10 +112,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exercicio4Kt" />
         <item itemvalue="Kotlin.Exercicio3Kt" />
         <item itemvalue="Kotlin.Exercicio2Kt" />
         <item itemvalue="Kotlin.Exercicio1Kt" />
-        <item itemvalue="Kotlin.Exercicio4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,26 +157,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="502" y="55" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600310126310" />
-    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1600545928524">
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1600546843633">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600373528512" />
-    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1600545928524" />
-    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1600545928523">
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1600546843633" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1600546843630">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1600545928523" />
-    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1600545928522">
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1600546843630" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1600546843629">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1600545928522" />
-    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1600545928523">
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1600546843629" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1600546843632">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1600545928523" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1600546843632" />
     <state x="259" y="13" key="SettingsEditor" timestamp="1600545943161">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>

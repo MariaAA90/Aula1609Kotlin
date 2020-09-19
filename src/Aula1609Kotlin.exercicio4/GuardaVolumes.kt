@@ -11,28 +11,14 @@ class GuardaVolumes {
     }
 
     fun mostrarPecas() {
-        volumes.forEach { chave, pecas ->
-            print("$chave -> ")
-            pecas.forEachIndexed { indice, peca ->
-                when (indice) {
-                    pecas.size - 1 -> print(peca)
-                    else -> print("$peca, ")
-                }
-            }
-            println()
+        volumes.forEach {
+            println("${it.key} -> ${it.value}")
         }
     }
 
     fun mostrarPecas(numero: Int) {
         if (volumes[numero] != null) {
-            print("Volumes com código $numero: ")
-            volumes[numero]!!.forEachIndexed { indice, peca ->
-                when (indice) {
-                    volumes[numero]!!.size - 1 -> print(peca)
-                    else -> print("$peca, ")
-                }
-            }
-            println()
+            println("Volumes com código $numero: ${volumes[numero]}")
         } else {
             println("Número inválido")
         }

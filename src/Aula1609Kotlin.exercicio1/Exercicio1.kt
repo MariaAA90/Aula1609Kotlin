@@ -13,13 +13,6 @@ fun main() {
         println("${it.key} -> ${it.value}")
     }
     apelido.forEach {
-        print("${it.key} -> ")
-        it.value.forEachIndexed { index, s ->
-            when (index) {
-                it.value.size - 1 -> print(s)
-                else -> print("$s, ")
-            }
-        }
-        println()
+        println("${it.key} -> ${it.value}")
     }
 }

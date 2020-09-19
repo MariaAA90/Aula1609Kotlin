@@ -1,8 +1,8 @@
 package Aula1609Kotlin.exercicio3
 
 fun main() {
-    val p1 = setOf<Int>(10, 9, 2, 10)
-    val p2 = setOf<Int>(3, 4, 1, 1)
+    val p1 = setOf(10, 9, 2, 10)
+    val p2 = setOf(3, 4, 1, 1)
 
     val prova = Prova()
 
