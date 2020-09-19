@@ -11,34 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5e9d498-1547-41ed-9100-19921e01d4bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula1609Kotlin/exercicio4/GuardaVolumes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula160920Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula160920Kotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/META-INF/Aula160920Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aula160920Kotlin/META-INF/Aula160920Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio1/Apelidos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio1/Exercicio1do1$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio1/Exercicio1do1$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio1/Exercicio1do1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio1/Loteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio2/Lista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio2/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio3/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio3/Prova.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Aula160920Kotlin/exercicio3/Prova.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio1/Apelidos.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio1/Exercicio1do1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio1/Loteria.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio2/Lista.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio2/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio3/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio3/Prova.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin/exercicio4/Exercicio4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin/exercicio4/GuardaVolumes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin/exercicio4/Peca.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1609Kotlin/exercicio4/Sapato.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,26 +145,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="502" y="55" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600310126310" />
-    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1600543797175">
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1600545747929">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600373528512" />
-    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1600543797175" />
-    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1600543797175">
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1047@0.0.1920.1047" timestamp="1600545747929" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1600545747928">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1600543797175" />
-    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1600543797175">
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1047@0.0.1920.1047" timestamp="1600545747928" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1600545747928">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1600543797175" />
-    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1600543797175">
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1047@0.0.1920.1047" timestamp="1600545747928" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1600545747928">
       <screen x="0" y="0" width="1920" height="1047" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600373528511" />
-    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1600543797175" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1047@0.0.1920.1047" timestamp="1600545747928" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1600475610461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
